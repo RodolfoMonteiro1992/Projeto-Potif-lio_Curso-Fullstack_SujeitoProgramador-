@@ -1,0 +1,2 @@
+Projeto desenvolvido no curso do Sujeito Programador DevFullstack com HTML e Css, ao qual fazemos uma página de portifólio como exemplo para colocar em prática tudo
+que foi aprendido nesses primeiros módulos. 
